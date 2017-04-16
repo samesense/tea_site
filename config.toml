@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Christin Perry Tea Ceremony"
-baseURL = "https://samesense.github.io/tea_site"
+baseURL = "https://samesense.github.io/tea_site/"
 theme = "hyde"
 publishDir = "docs"
 
