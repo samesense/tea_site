@@ -1,0 +1,24 @@
+languageCode = "en-us"
+title = "Christin Perry Tea Ceremony"
+baseURL = "https://samesense.github.io/tea_site"
+theme = "hyde"
+publishDir = "docs"
+
+name = "Hyde"
+description = "Testing"
+tags = ["blog", "company"]
+features = ["blog", "themes", "disqus"]
+min_version = 0.20
+
+[author]
+    name = "spf13"
+    homepage = "http://spf13.com"
+
+# If Porting existing theme
+[original]
+    author =  "mdo"
+    homepage = "http://markdotto.com/"
+    repo = "https://www.github.com/mdo/hyde"
+
+[params]
+  themeColor = "theme-base-0d"
