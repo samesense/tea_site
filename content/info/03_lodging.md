@@ -2,6 +2,7 @@
 Description = ""
 title = "Lodging"
 menu = "main"
+weight = 3
 +++
 
 ### Hong Kong's Geography Overview: 					

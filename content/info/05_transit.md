@@ -1,7 +1,7 @@
 +++
-Description = ""
 menu = "main"
 title = "Transit in Hong Kong"
+weight = 5
 +++
 
 Hong Kong's public transportation is very convenient and easy to use.  In addition to cash, you can pay for majority of 

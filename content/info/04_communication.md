@@ -2,6 +2,7 @@
 title = "Communication"
 draft = false
 menu = "main"
+weight = 4
 +++
 
 ### Wifi

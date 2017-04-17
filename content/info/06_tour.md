@@ -1,7 +1,7 @@
 +++
 title = "Tour"
 menu = "main"
-Description = ""
+weight = 6
 +++
 
 ## Group tours 

@@ -2,6 +2,7 @@
 draft = false
 title = "Getting There"
 menu = "main"
+weight = 2
 +++
 
 ### Fly to Hong Kong International Airport (HKG) 																									

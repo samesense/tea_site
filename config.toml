@@ -1,17 +1,15 @@
 languageCode = "en-us"
-title = "Christin Perry Tea Ceremony"
-baseURL = "https://samesense.github.io/tea_site/"
+title = "Christin & Perry Tea Ceremony"
+baseURL = "https://samesense.github.io/tea/"
 theme = "hyde"
 publishDir = "docs"
-
 name = "Hyde"
-description = "Testing"
 tags = ["blog", "company"]
 features = ["blog", "themes", "disqus"]
 min_version = 0.20
 
 [author]
-    name = "spf13"
+    name = "samesense"
     homepage = "http://spf13.com"
 
 # If Porting existing theme
@@ -21,4 +19,6 @@ min_version = 0.20
     repo = "https://www.github.com/mdo/hyde"
 
 [params]
-  themeColor = "theme-base-0d"
+  themeColor = "theme-base-0e"
+  description = "Tuesday, Nov 21, 2017 @ noon - The Peninsula Hong Kong"
+  disqusShortname = "samesense"

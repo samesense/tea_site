@@ -1,45 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Christin Perry Tea Ceremony</title>
-    <link>https://samesense.github.io/tea_site/index.xml</link>
-    <description>Recent content on Christin Perry Tea Ceremony</description>
+    <title>Christin &amp; Perry Tea Ceremony</title>
+    <link>https://samesense.github.io/tea/index.xml</link>
+    <description>Recent content on Christin &amp; Perry Tea Ceremony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://samesense.github.io/tea_site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://samesense.github.io/tea/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Communication</title>
-      <link>https://samesense.github.io/tea_site/info/communication/</link>
+      <title>Tea Ceremony</title>
+      <link>https://samesense.github.io/tea/info/main_event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samesense.github.io/tea_site/info/communication/</guid>
-      <description>
+      <guid>https://samesense.github.io/tea/info/main_event/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;waterColorHkg.jpg&#34; alt=&#34;main&#34; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;wifi&#34;&gt;Wifi&lt;/h3&gt;
-
-&lt;p&gt;HK airport has free wifi available.&lt;/p&gt;
-
-&lt;h3 id=&#34;sim-card-purchase&#34;&gt;SIM card purchase&lt;/h3&gt;
-
-&lt;p&gt;Hong Kong&amp;rsquo;s cell coverage is very good.  Pre-paid SIM card is available at HKG airport.&lt;/p&gt;
-
-&lt;p&gt;Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher.&lt;/p&gt;
-
-&lt;p&gt;To use a pre-paid SIM card, you must have a GSM-based unlocked phone.  Talk to your neighborhood tech guys for details if you need assistance.&lt;/p&gt;
-
-&lt;p&gt;HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.&lt;br /&gt;
-Buy online ahead of arrival and pick up at &lt;a href=&#34;https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/&#34;&gt;A13 kiosk&lt;/a&gt;
-The representatives at the kiosk will help you set up your phone.  We recommend getting your SIM this way.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.teasenz.com/chinese-tea/chinese-wedding-tea-ceremony.html&#34;&gt;Comprehensive Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tuesday, Nov 21, 2017 @ noon&lt;/li&gt;
+&lt;li&gt;Garden Suite at &lt;a href=&#34;http://hongkong.peninsula.com/en/default&#34;&gt;The Peninsula Hong Kong&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;3 hours&lt;/li&gt;
+&lt;li&gt;This is not like an American wedding.&lt;/li&gt;
+&lt;li&gt;The event will include a tea ceremony where we serve tea to elders, and a lunch buffet.&lt;/li&gt;
+&lt;li&gt;There will be no dancing.&lt;/li&gt;
+&lt;li&gt;Dress code?&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Getting There</title>
-      <link>https://samesense.github.io/tea_site/info/getting_there/</link>
+      <link>https://samesense.github.io/tea/info/02_getting_there/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samesense.github.io/tea_site/info/getting_there/</guid>
+      <guid>https://samesense.github.io/tea/info/02_getting_there/</guid>
       <description>
 
 &lt;h3 id=&#34;fly-to-hong-kong-international-airport-hkg&#34;&gt;Fly to Hong Kong International Airport (HKG)&lt;/h3&gt;
@@ -151,10 +146,10 @@ Please make sure you depart your home by &lt;b&gt;November 20, 2017&lt;/b&gt; to
     
     <item>
       <title>Lodging</title>
-      <link>https://samesense.github.io/tea_site/info/lodging/</link>
+      <link>https://samesense.github.io/tea/info/03_lodging/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samesense.github.io/tea_site/info/lodging/</guid>
+      <guid>https://samesense.github.io/tea/info/03_lodging/</guid>
       <description>
 
 &lt;h3 id=&#34;hong-kong-s-geography-overview&#34;&gt;Hong Kong&amp;rsquo;s Geography Overview:&lt;/h3&gt;
@@ -185,11 +180,189 @@ We do not recommend staying north of Sha Tin and North/West of Mei Foo if you de
     </item>
     
     <item>
-      <title>Tour</title>
-      <link>https://samesense.github.io/tea_site/info/tour/</link>
+      <title>Communication</title>
+      <link>https://samesense.github.io/tea/info/04_communication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://samesense.github.io/tea_site/info/tour/</guid>
+      <guid>https://samesense.github.io/tea/info/04_communication/</guid>
+      <description>
+
+&lt;h3 id=&#34;wifi&#34;&gt;Wifi&lt;/h3&gt;
+
+&lt;p&gt;HK airport has free wifi available.&lt;/p&gt;
+
+&lt;h3 id=&#34;sim-card-purchase&#34;&gt;SIM card purchase&lt;/h3&gt;
+
+&lt;p&gt;Hong Kong&amp;rsquo;s cell coverage is very good.  Pre-paid SIM card is available at HKG airport.&lt;/p&gt;
+
+&lt;p&gt;Convenience stores such as 7-11, Circle K, and VanGo offer SIM card and reload voucher.&lt;/p&gt;
+
+&lt;p&gt;To use a pre-paid SIM card, you must have a GSM-based unlocked phone.  Talk to your neighborhood tech guys for details if you need assistance.&lt;/p&gt;
+
+&lt;p&gt;HK airport arrival hall A13 kiosk sells SIM card and a variety of tour packages.&lt;br /&gt;
+Buy online ahead of arrival and pick up at &lt;a href=&#34;https://www.klook.com/activity/727-hongkong-one2free-3g-sim-card-hongkong/&#34;&gt;A13 kiosk&lt;/a&gt;
+The representatives at the kiosk will help you set up your phone.  We recommend getting your SIM this way.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transit in Hong Kong</title>
+      <link>https://samesense.github.io/tea/info/05_transit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samesense.github.io/tea/info/05_transit/</guid>
+      <description>
+
+&lt;p&gt;Hong Kong&amp;rsquo;s public transportation is very convenient and easy to use.  In addition to cash, you can pay for majority of
+the public transportation with an Octopus card.&lt;/p&gt;
+
+&lt;h3 id=&#34;octopus-card&#34;&gt;Octopus Card&lt;/h3&gt;
+
+&lt;p&gt;The Octopus Card a cash-equivalent, rechargeable RFID card for nearly all public transit.&lt;/p&gt;
+
+&lt;p&gt;It is also accepted at convenience store, supermarkets, vending machines, and some restaurants.&lt;/p&gt;
+
+&lt;p&gt;There are two main kinds of Octopus Card for Adults.  Children (age 3-11) and seniors (age 65+) can enjoy discounts on
+their travels.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Standard Octopus Card&lt;/li&gt;
+&lt;li&gt;Sold Tourist Octopus Card&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;standard-octopus-card&#34;&gt;Standard Octopus Card&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;costs $150 HKD: $50 HKD refundable deposit, $100 HKD cash value&lt;/li&gt;
+&lt;li&gt;Allows a one-time negative value up to $35 HKD for transit.  Once the card goes negative, it cannot be used until
+it&amp;rsquo;s refilled&lt;/li&gt;
+&lt;li&gt;Can get the refundable deposit and any loaded cash values back, minus $9 HKD adminstrative fee if the card is less
+than 3 months old&lt;/li&gt;
+&lt;li&gt;Available for Children (age 3-11) and Senior version (age 65+)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/on-loan-octopus/standard-octopus/en/index.html&#34;&gt;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/on-loan-octopus/standard-octopus/en/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Where to buy:  MTR customer service centers, including the one at the Airport&lt;/p&gt;
+
+&lt;h4 id=&#34;the-sold-tourist-octopus-card&#34;&gt;the Sold Tourist Octopus card&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;costs $39 HKD.  No stored cash value.  The $39 HKD paid to purchase the card is not refundable.&lt;/li&gt;
+&lt;li&gt;Operates the same way as a standard Octopus Card&lt;/li&gt;
+&lt;li&gt;Can get loaded cash values back&amp;ndash; the card will be deactivated after cashing out&lt;/li&gt;
+&lt;li&gt;Adults only&amp;ndash;  no concession fare types (i.e. children and senior fare) available&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/limited-edition-octopus/tourist/en/index.html&#34;&gt;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/limited-edition-octopus/tourist/en/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Where to buy:  Convenience stores such as 7-11, Circle K and VanGo.  This includes the 7-11 at the Airport Arrival Hall&lt;/p&gt;
+
+&lt;h4 id=&#34;reloading-your-octopus-card&#34;&gt;Reloading your Octopus Card&lt;/h4&gt;
+
+&lt;p&gt;You can reload the Octopus Cards at the following locations.  &lt;b&gt;CASH ONLY!&lt;/b&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Automatic reloading machines at MTR stations (in increments of $50 HKD and $100 HKD)&lt;/li&gt;
+&lt;li&gt;MTR Customer Service Center&lt;/li&gt;
+&lt;li&gt;Convenience stores (7-11, Circle K, VanGo)&lt;/li&gt;
+&lt;li&gt;Chain food establishments (e.g. Starbucks, McDonalds, Cafe de Coral, Maxim Cakes)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;common-transit-modes&#34;&gt;Common Transit Modes&lt;/h3&gt;
+
+&lt;p&gt;From the most to least English friendly&amp;hellip; MTR, buses, minibuses&lt;/p&gt;
+
+&lt;h4 id=&#34;mtr&#34;&gt;MTR&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Hong Kong&amp;rsquo;s premier subway system&lt;/li&gt;
+&lt;li&gt;Provides very good coverage all across Hong Kong (Hong Kong Island, Kowloon, and New Territories)&lt;/li&gt;
+&lt;li&gt;All signs and announcements are available in English&lt;/li&gt;
+&lt;li&gt;slightly costly&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mtr.com.hk/en/customer/tourist/index.php&#34;&gt;http://www.mtr.com.hk/en/customer/tourist/index.php&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Payment method:  Octopus card, single journey tickets.  Both needs to be scanned when you enter and exit the platform&lt;/p&gt;
+
+&lt;h4 id=&#34;buses&#34;&gt;Buses&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Many bus companies (e.g. KMB, CityBus, Long Win Bus, New World Bus)&lt;/li&gt;
+&lt;li&gt;Many routes available&amp;ndash; good for accessing slightly more remote area&lt;/li&gt;
+&lt;li&gt;Some buses are equipt with signs and announcements of stations in English&lt;/li&gt;
+&lt;li&gt;not as costly&lt;/li&gt;
+&lt;li&gt;speed dictates by traffic flow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Payment method:  Octopus card or exact change rendered upon entering the bus.  Fare is based on distance from bus destination&lt;/p&gt;
+
+&lt;h4 id=&#34;minibus-public-light-bus&#34;&gt;Minibus/public light bus&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Green minibuses have fixed routes and stops&lt;/li&gt;
+&lt;li&gt;Red minibuses have fixed routes, but no fixed stops&lt;/li&gt;
+&lt;li&gt;typically runs local routes&lt;/li&gt;
+&lt;li&gt;Not English friendly for the most part&lt;/li&gt;
+&lt;li&gt;speed dictates by traffic flow&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Payment method:
+* Green:  Octopus card or exact change rendered upon entering the minibus.&lt;br /&gt;
+* Red:  Cash upon exiting the minibus.  Fare is calculated based on distance.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-wildcards-transit-options&#34;&gt;The &amp;ldquo;Wildcards&amp;rdquo; Transit Options&lt;/h3&gt;
+
+&lt;h4 id=&#34;taxis&#34;&gt;Taxis&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Red taxis run around Hong Kong Island and Kowloon&lt;/li&gt;
+&lt;li&gt;Green taxis run around mainland New Territories&lt;/li&gt;
+&lt;li&gt;Blue taxis (very rare) run on the outlying islands (e.g. Lantau Island)&lt;/li&gt;
+&lt;li&gt;All taxis run on meters&lt;/li&gt;
+&lt;li&gt;Although typically not allowed, some taxi drivers were known for refusing cross-harbor trips.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;English proficiency varies with drivers&lt;/li&gt;
+&lt;li&gt;most costly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Payment method:  Cash at the end of the journey according to the meter and any auxillary costs (e.g. luggages)&lt;/p&gt;
+
+&lt;h4 id=&#34;uber&#34;&gt;Uber&lt;/h4&gt;
+
+&lt;p&gt;Available in Hong Kong, but technically not legal&amp;ndash; use at your own perils&lt;/p&gt;
+
+&lt;h4 id=&#34;ferry&#34;&gt;Ferry&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cross-harbor and to outlying islands&lt;/li&gt;
+&lt;li&gt;there is no intermediate stops&amp;ndash; easy to navigate if that is where you want to go&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;payment method:  Octopus card or buy ticket with cash.  scan card/give up ticket when entering the turnsile&lt;/p&gt;
+
+&lt;h4 id=&#34;trams&#34;&gt;Trams&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Only on Hong Kong Island&lt;/li&gt;
+&lt;li&gt;low cost transit option&lt;/li&gt;
+&lt;li&gt;slow&amp;hellip;&lt;/li&gt;
+&lt;li&gt;although it does have a dedicated &amp;ldquo;track&amp;rdquo;, it shares the road with the rest of the traffic.&lt;br /&gt;&lt;/li&gt;
+&lt;li&gt;popular for sight-seeing and experiencing the ambience&lt;/li&gt;
+&lt;li&gt;stop signage on tram is limited&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Payment method:  Octopus card or exact change rendered upon exiting the tram at the front door&lt;/p&gt;
+
+&lt;h4 id=&#34;peak-tram&#34;&gt;Peak tram&lt;/h4&gt;
+
+&lt;p&gt;Goes to up the Peak, with intermediate stops along the way, on Hong Kong Island&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tour</title>
+      <link>https://samesense.github.io/tea/info/06_tour/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samesense.github.io/tea/info/06_tour/</guid>
       <description>
 
 &lt;h2 id=&#34;group-tours&#34;&gt;Group tours&lt;/h2&gt;
@@ -588,158 +761,6 @@ We do not recommend staying north of Sha Tin and North/West of Mei Foo if you de
 &lt;li&gt;see the view and feel the sea breeze&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.hkow.hk/en/&#34;&gt;http://www.hkow.hk/en/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Transit in Hong Kong</title>
-      <link>https://samesense.github.io/tea_site/info/transit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://samesense.github.io/tea_site/info/transit/</guid>
-      <description>
-
-&lt;p&gt;Hong Kong&amp;rsquo;s public transportation is very convenient and easy to use.  In addition to cash, you can pay for majority of
-the public transportation with an Octopus card.&lt;/p&gt;
-
-&lt;h3 id=&#34;octopus-card&#34;&gt;Octopus Card&lt;/h3&gt;
-
-&lt;p&gt;The Octopus Card a cash-equivalent, rechargeable RFID card for nearly all public transit.&lt;/p&gt;
-
-&lt;p&gt;It is also accepted at convenience store, supermarkets, vending machines, and some restaurants.&lt;/p&gt;
-
-&lt;p&gt;There are two main kinds of Octopus Card for Adults.  Children (age 3-11) and seniors (age 65+) can enjoy discounts on
-their travels.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Standard Octopus Card&lt;/li&gt;
-&lt;li&gt;Sold Tourist Octopus Card&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&#34;standard-octopus-card&#34;&gt;Standard Octopus Card&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;costs $150 HKD: $50 HKD refundable deposit, $100 HKD cash value&lt;/li&gt;
-&lt;li&gt;Allows a one-time negative value up to $35 HKD for transit.  Once the card goes negative, it cannot be used until
-it&amp;rsquo;s refilled&lt;/li&gt;
-&lt;li&gt;Can get the refundable deposit and any loaded cash values back, minus $9 HKD adminstrative fee if the card is less
-than 3 months old&lt;/li&gt;
-&lt;li&gt;Available for Children (age 3-11) and Senior version (age 65+)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/on-loan-octopus/standard-octopus/en/index.html&#34;&gt;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/on-loan-octopus/standard-octopus/en/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Where to buy:  MTR customer service centers, including the one at the Airport&lt;/p&gt;
-
-&lt;h4 id=&#34;the-sold-tourist-octopus-card&#34;&gt;the Sold Tourist Octopus card&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;costs $39 HKD.  No stored cash value.  The $39 HKD paid to purchase the card is not refundable.&lt;/li&gt;
-&lt;li&gt;Operates the same way as a standard Octopus Card&lt;/li&gt;
-&lt;li&gt;Can get loaded cash values back&amp;ndash; the card will be deactivated after cashing out&lt;/li&gt;
-&lt;li&gt;Adults only&amp;ndash;  no concession fare types (i.e. children and senior fare) available&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/limited-edition-octopus/tourist/en/index.html&#34;&gt;http://www.octopus.com.hk/get-your-octopus/choose-your-octopus/limited-edition-octopus/tourist/en/index.html&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Where to buy:  Convenience stores such as 7-11, Circle K and VanGo.  This includes the 7-11 at the Airport Arrival Hall&lt;/p&gt;
-
-&lt;h4 id=&#34;reloading-your-octopus-card&#34;&gt;Reloading your Octopus Card&lt;/h4&gt;
-
-&lt;p&gt;You can reload the Octopus Cards at the following locations.  &lt;b&gt;CASH ONLY!&lt;/b&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Automatic reloading machines at MTR stations (in increments of $50 HKD and $100 HKD)&lt;/li&gt;
-&lt;li&gt;MTR Customer Service Center&lt;/li&gt;
-&lt;li&gt;Convenience stores (7-11, Circle K, VanGo)&lt;/li&gt;
-&lt;li&gt;Chain food establishments (e.g. Starbucks, McDonalds, Cafe de Coral, Maxim Cakes)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;common-transit-modes&#34;&gt;Common Transit Modes&lt;/h3&gt;
-
-&lt;p&gt;From the most to least English friendly&amp;hellip; MTR, buses, minibuses&lt;/p&gt;
-
-&lt;h4 id=&#34;mtr&#34;&gt;MTR&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Hong Kong&amp;rsquo;s premier subway system&lt;/li&gt;
-&lt;li&gt;Provides very good coverage all across Hong Kong (Hong Kong Island, Kowloon, and New Territories)&lt;/li&gt;
-&lt;li&gt;All signs and announcements are available in English&lt;/li&gt;
-&lt;li&gt;slightly costly&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.mtr.com.hk/en/customer/tourist/index.php&#34;&gt;http://www.mtr.com.hk/en/customer/tourist/index.php&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Payment method:  Octopus card, single journey tickets.  Both needs to be scanned when you enter and exit the platform&lt;/p&gt;
-
-&lt;h4 id=&#34;buses&#34;&gt;Buses&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Many bus companies (e.g. KMB, CityBus, Long Win Bus, New World Bus)&lt;/li&gt;
-&lt;li&gt;Many routes available&amp;ndash; good for accessing slightly more remote area&lt;/li&gt;
-&lt;li&gt;Some buses are equipt with signs and announcements of stations in English&lt;/li&gt;
-&lt;li&gt;not as costly&lt;/li&gt;
-&lt;li&gt;speed dictates by traffic flow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Payment method:  Octopus card or exact change rendered upon entering the bus.  Fare is based on distance from bus destination&lt;/p&gt;
-
-&lt;h4 id=&#34;minibus-public-light-bus&#34;&gt;Minibus/public light bus&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Green minibuses have fixed routes and stops&lt;/li&gt;
-&lt;li&gt;Red minibuses have fixed routes, but no fixed stops&lt;/li&gt;
-&lt;li&gt;typically runs local routes&lt;/li&gt;
-&lt;li&gt;Not English friendly for the most part&lt;/li&gt;
-&lt;li&gt;speed dictates by traffic flow&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Payment method:
-* Green:  Octopus card or exact change rendered upon entering the minibus.&lt;br /&gt;
-* Red:  Cash upon exiting the minibus.  Fare is calculated based on distance.&lt;/p&gt;
-
-&lt;h3 id=&#34;the-wildcards-transit-options&#34;&gt;The &amp;ldquo;Wildcards&amp;rdquo; Transit Options&lt;/h3&gt;
-
-&lt;h4 id=&#34;taxis&#34;&gt;Taxis&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Red taxis run around Hong Kong Island and Kowloon&lt;/li&gt;
-&lt;li&gt;Green taxis run around mainland New Territories&lt;/li&gt;
-&lt;li&gt;Blue taxis (very rare) run on the outlying islands (e.g. Lantau Island)&lt;/li&gt;
-&lt;li&gt;All taxis run on meters&lt;/li&gt;
-&lt;li&gt;Although typically not allowed, some taxi drivers were known for refusing cross-harbor trips.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;English proficiency varies with drivers&lt;/li&gt;
-&lt;li&gt;most costly&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Payment method:  Cash at the end of the journey according to the meter and any auxillary costs (e.g. luggages)&lt;/p&gt;
-
-&lt;h4 id=&#34;uber&#34;&gt;Uber&lt;/h4&gt;
-
-&lt;p&gt;Available in Hong Kong, but technically not legal&amp;ndash; use at your own perils&lt;/p&gt;
-
-&lt;h4 id=&#34;ferry&#34;&gt;Ferry&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;cross-harbor and to outlying islands&lt;/li&gt;
-&lt;li&gt;there is no intermediate stops&amp;ndash; easy to navigate if that is where you want to go&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;payment method:  Octopus card or buy ticket with cash.  scan card/give up ticket when entering the turnsile&lt;/p&gt;
-
-&lt;h4 id=&#34;trams&#34;&gt;Trams&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Only on Hong Kong Island&lt;/li&gt;
-&lt;li&gt;low cost transit option&lt;/li&gt;
-&lt;li&gt;slow&amp;hellip;&lt;/li&gt;
-&lt;li&gt;although it does have a dedicated &amp;ldquo;track&amp;rdquo;, it shares the road with the rest of the traffic.&lt;br /&gt;&lt;/li&gt;
-&lt;li&gt;popular for sight-seeing and experiencing the ambience&lt;/li&gt;
-&lt;li&gt;stop signage on tram is limited&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Payment method:  Octopus card or exact change rendered upon exiting the tram at the front door&lt;/p&gt;
-
-&lt;h4 id=&#34;peak-tram&#34;&gt;Peak tram&lt;/h4&gt;
-
-&lt;p&gt;Goes to up the Peak, with intermediate stops along the way, on Hong Kong Island&lt;/p&gt;
 </description>
     </item>
     
