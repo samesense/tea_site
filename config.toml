@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Christin & Perry Tea Ceremony"
-baseURL = "https://samesense.github.io/tea/"
+baseURL = "https://samesense.github.io/tea_site/"
 theme = "hyde"
 publishDir = "public"
 name = "Hyde"
@@ -19,6 +19,6 @@ min_version = 0.20
     repo = "https://www.github.com/mdo/hyde"
 
 [params]
-  themeColor = "theme-base-0e"
+  themeColor = "theme-base-tea"
   description = "Tuesday, Nov 21, 2017 @ noon - The Peninsula Hong Kong"
   disqusShortname = "samesense"
