@@ -72,12 +72,12 @@ html {
 
 /* Sidebar links */
 .sidebar a {
-    color: rgba(81, 39, 130, 1);
+  color: #fff;
 }
 
 /* About section */
 .sidebar-about h1 {
-    color: rgba(81, 39, 130, 1);
+  color: #fff;
   margin-top: 0;
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 3.25rem;
@@ -231,20 +231,14 @@ a.sidebar-nav-item:focus {
   color: #6a9fb5;
 }
 
-.theme-base-0e .post-title-single {
-    margin-top: 0;
-    color: rgba(81, 39, 130, 1);
-}
-
 /* Magenta */
 .theme-base-0e .sidebar {
-    background-color: rgb(255, 212, 50);
+  background-color: #aa759f;
 }
 .theme-base-0e .content a,
 .theme-base-0e .related-posts li a:hover {
-    color: rgba(81, 39, 130, 1);
+  color: #aa759f;
 }
-/* rgb(124, 19, 165) */
 
 /* Brown */
 .theme-base-0f .sidebar {
@@ -253,4 +247,32 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+/* Tea */
+.theme-base-tea .sidebar {
+    background-color: rgb(255, 212, 50);
+}
+.theme-base-tea .sidebar a {
+    color: rgba(81, 39, 130, 1);
+}
+
+.theme-base-tea .content a,
+.theme-base-tea .related-posts li a:hover {
+    color: #aa759f;
+}
+.theme-base-tea .post-title {
+    color: rgba(81, 39, 130, 1);
+}
+.theme-base-tea .content container .posts .post .post-title {
+    color: rgba(81, 39, 130, 1);
+}
+.theme-base-tea .post-title-single {
+    color: rgba(81, 39, 130, 1);
+}
+.theme-base-tea .sidebar-about h1 {
+    color: rgba(81, 39, 130, 1);
+}
+.theme-base-tea .lead {
+    color: rgba(81, 39, 130, 1);
 }

@@ -2,36 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://samesense.github.io/tea/info/main_event/</loc>
+    <loc>https://samesense.github.io/tea_site/info/main_event/</loc>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/info/02_getting_there/</loc>
+    <loc>https://samesense.github.io/tea_site/info/02_getting_there/</loc>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/info/03_lodging/</loc>
+    <loc>https://samesense.github.io/tea_site/info/03_lodging/</loc>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/info/04_communication/</loc>
+    <loc>https://samesense.github.io/tea_site/info/04_communication/</loc>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/info/05_transit/</loc>
+    <loc>https://samesense.github.io/tea_site/info/05_transit/</loc>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/info/06_tour/</loc>
+    <loc>https://samesense.github.io/tea_site/info/06_tour/</loc>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/</loc>
+    <loc>https://samesense.github.io/tea_site/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://samesense.github.io/tea/info/</loc>
+    <loc>https://samesense.github.io/tea_site/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea_site/info/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://samesense.github.io/tea_site/tags/</loc>
     <priority>0</priority>
   </url>
   
