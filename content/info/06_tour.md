@@ -36,7 +36,7 @@ Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approxim
 K | Ten Thousand Buddha Monastery  | Shatin  | No | N/A |  Free | ? |
 L | Jao Tsung-I Academy | Lai Chi Kok | No | N/A | Free | ? |
 M | Sam Tun UK Museum | Tsuen Wang| No | N/A| Free | ? |
-N | Tai Fu Tai Mension | ? | No | N/A | Free | ? | 
+N | Tai Fu Tai Mansion | ? | No | N/A | Free | ? | 
 O | Wong Tai Sin Temple | Wong Tai Sin } No | N/A | Free | ? | 
 P | Kowloon Walled City Park | Kowloon City | No | N/A | Free | ? |
 
