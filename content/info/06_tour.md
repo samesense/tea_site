@@ -6,9 +6,11 @@ weight = 6
 
 ## Group tours 
 
-We will try to leverage a group discount where applicable. Please note that we may combine, move or cancel tours depending on signup activities.  
+We will try to leverage a group discount where applicable, and would notify you if no group discount is available. Please note that we may combine, move or cancel tours depending on signup activities.  
 
-\*Date would change to maximize people who would like to join 
+\*Date would change to maximize people who would like to join
+
+[Sign up here](https://goo.gl/forms/yprc8QF7y75mHzWn2)
 
 ### Full Day Tours
 The following paid full day tours are available.  Prices listed are pre-group discount.  
@@ -36,7 +38,7 @@ Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approxim
 K | Ten Thousand Buddha Monastery  | Shatin  | No | N/A |  Free | ? |
 L | Jao Tsung-I Academy | Lai Chi Kok | No | N/A | Free | ? |
 M | Sam Tun UK Museum | Tsuen Wang| No | N/A| Free | ? |
-N | Tai Fu Tai Mension | ? | No | N/A | Free | ? | 
+N | Tai Fu Tai Mansion | Yuen Long | No | N/A | Free | ? | 
 O | Wong Tai Sin Temple | Wong Tai Sin } No | N/A | Free | ? | 
 P | Kowloon Walled City Park | Kowloon City | No | N/A | Free | ? |
 
