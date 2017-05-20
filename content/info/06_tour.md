@@ -10,7 +10,7 @@ We will try to leverage a group discount where applicable, and would notify you 
 
 \*Date would change to maximize people who would like to join
 
-[Sign up here] (https://goo.gl/forms/yprc8QF7y75mHzWn2)
+[Sign up here](https://goo.gl/forms/yprc8QF7y75mHzWn2)
 
 ### Full Day Tours
 The following paid full day tours are available.  Prices listed are pre-group discount.  
