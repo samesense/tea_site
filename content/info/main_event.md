@@ -16,4 +16,7 @@ featured_image = "waterColorHkg.jpg"
 * Dress code:  Garden formal
 
 
+<iframe src="https://drive.google.com/open?id=1ZGgu_O8lN93zdmpBSk3kLkzTyu0&usp=sharing" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 
