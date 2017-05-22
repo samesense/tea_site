@@ -5,7 +5,7 @@ menu = "main"
 weight = 3
 +++
 
-### Hong Kong's Geography Overview: 					
+### Hong Kong's Geography Overview 					
  																				
 Hong Kong consists of 2 main land masses, which are divided into 3 areas: 					
 * Hong Kong Island 												
