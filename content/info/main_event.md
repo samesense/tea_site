@@ -17,6 +17,8 @@ featured_image = "waterColorHkg.jpg"
 * No dance floor or DJ at the reception
 * Dress code:  Garden formal
 
+[RSVP here](https://goo.gl/forms/7aor96Y5VgALDTKZ2)
+
 {{< gmaps 1ZGgu_O8lN93zdmpBSk3kLkzTyu0 >}}
 
 
