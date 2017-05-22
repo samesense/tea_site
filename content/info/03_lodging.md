@@ -16,7 +16,7 @@ There are also 100s of outlying island，of which the airport is located on one 
 The north side of New Territory connects to mainland China, separated by a river 				
 
 To minimize transit time, we recommend that you stay in the Kowloon area.  If you prefer to stay in New Territory, stay as close to a MTR line as possible.  																									
-We do not recommend staying north of Sha Tin and North/West of Mei Foo if you decide to stay in New Territory.  The better lodging area is marked with a Yellow Polygon on the map.  	
+We do not recommend staying north of Sha Tin and North/West of Lai King if you decide to stay in New Territory.  The better lodging area is marked with a Yellow Polygon on the map.  	
 
 Lodging on Hong Kong Island is very popular with tourist.  However, you must go across the harbor to access the rest of Hong Kong.  The cost of cross-harbor trips are typically higher.  Please keep this in mind if you decide to stay on Hong Kong Island.																						
 
