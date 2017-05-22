@@ -20,7 +20,7 @@ Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approxim
 A | [Macau 1 or 2 days](https://samesense.github.io/tea_site/info/06_tour/#macau-1-or-2-day-tour) | Macau | No | Nov 23 | $35 min | ? | 
 B| [Hong Kong Geological park boat tour](https://samesense.github.io/tea_site/info/06_tour/#hong-kong-geological-park-boat-tour) | at sea | Yes | Nov 24 | $75 min | N/A| 
 C| [Ngong Ping 360 Cable Car and Big Buddha or Tai O](https://samesense.github.io/tea_site/info/06_tour/#ngong-ping-360-cable-car-and-big-buddha-or-tai-o) | Lantau Island | No | Nov 20 | $20 min one way, $25 min round trip | $13 max |
-D| Hong Kong Wetland Park and seafood | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
+D| [Hong Kong Wetland Park and seafood]（https://samesense.github.io/tea_site/info/06_tour/#hong-kong-wetland-park-and-seafood） | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
  
 ### Shorter Tours 
 
