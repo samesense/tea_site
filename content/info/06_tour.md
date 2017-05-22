@@ -20,7 +20,7 @@ Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approxim
 A | [Macau 1 or 2 days](https://samesense.github.io/tea_site/info/06_tour/#macau-1-or-2-day-tour) | Macau | No | Nov 23 | $35 min | ? | 
 B| [Hong Kong Geological park boat tour](https://samesense.github.io/tea_site/info/06_tour/#hong-kong-geological-park-boat-tour) | at sea | Yes | Nov 24 | $75 min | N/A| 
 C| [Ngong Ping 360 Cable Car and Big Buddha or Tai O](https://samesense.github.io/tea_site/info/06_tour/#ngong-ping-360-cable-car-and-big-buddha-or-tai-o) | Lantau Island | No | Nov 20 | $20 min one way, $25 min round trip | $13 max |
-D| Hong Kong Wetland Park + seafood | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
+D| Hong Kong Wetland Park and seafood | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
  
 ### Shorter Tours 
 
@@ -28,7 +28,7 @@ The following paid shorter tours are available.  Prices listed are pre-group dis
 
 Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-E | Tolo Harbor biking tour + group grilling | Shatin, Taipo, Tai Mei Duk| No | Nov 22 | $8 min | $13 min|
+E | Tolo Harbor biking tour and group grilling | Shatin, Taipo, Tai Mei Duk| No | Nov 22 | $8 min | $13 min|
 F | Night Cruise on Victoria Harbor | Tsim Sha Tsui, at sea| Yes | Nov 21 | ? | ? 
 
 The following free, short tours are available: 
@@ -39,7 +39,7 @@ K | Ten Thousand Buddha Monastery  | Shatin  | No | N/A |  Free | ? |
 L | Jao Tsung-I Academy | Lai Chi Kok | No | N/A | Free | ? |
 M | Sam Tun UK Museum | Tsuen Wang| No | N/A| Free | ? |
 N | Tai Fu Tai Mansion | Yuen Long | No | N/A | Free | ? | 
-O | Wong Tai Sin Temple | Wong Tai Sin } No | N/A | Free | ? | 
+O | Wong Tai Sin Temple | Wong Tai Sin | No | N/A | Free | ? | 
 P | Kowloon Walled City Park | Kowloon City | No | N/A | Free | ? |
 
 ### Group Ticket Purchase 
@@ -82,11 +82,11 @@ J | Hong Kong Observation Wheel | Central | No | N/A | $13 | ? |
 * https://www.np360.com.hk/en/
 * http://hiking.gov.hk/eng/longtrail/ltrail/ltrail/ltrail04.htm
 
-#### Hong Kong Wetland Park + seafood  
+#### Hong Kong Wetland Park and seafood  
 * Visit Hong Kong's Estuary, where tidal pools provide habitats for sea creatures and migratory birds 
 * Seafood market at Lau Fau Shan area.  
 
-#### Tolo Harbor biking tour + group grilling
+#### Tolo Harbor biking tour and group grilling
 * start at Sha Tin and bike along Tolo Harbor 
 * along the way:  Hong Kong Science Park, temple, Tai Po Waterfront Park.  also great view along the harbor
 * multiple starting/stopping points:  sha tin, tai po, and tai mei duk.  1 way bike rental is  OK
