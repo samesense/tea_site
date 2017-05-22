@@ -47,5 +47,3 @@ There are 3 main ways to get out of the Airport:  Airport Express, A-Buses/E-Bus
 * most expensive, but offers direct route to lodging
 * need to pay tolls, baggage fees along with metered rate
 
-{{ template "_internal/disqus.html" . }}
-
