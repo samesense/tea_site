@@ -17,7 +17,7 @@ The following paid full day tours are available.  Prices listed are pre-group di
 
 Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-A | Macau 1 or 2 days | Macau | No | Nov 23 | $35 min | ? | 
+A | [Macau 1 or 2 days](https://samesense.github.io/tea_site/info/06_tour/#macau-1-or-2-day-tour) | Macau | No | Nov 23 | $35 min | ? | 
 B| Hong Kong Geological park boat tour | at sea | Yes | Nov 24 | $75 min | N/A| 
 C| Ngong Ping 360 Cable Car + Big Buddha/Tai O | Lantau Island | No | Nov 20 | $20 min one way, $25 min round trip | $13 max |
 D| Hong Kong Wetland Park + seafood | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
