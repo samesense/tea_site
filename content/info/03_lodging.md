@@ -5,14 +5,14 @@ menu = "main"
 weight = 3
 +++
 
-### Hong Kong's Geography Overview			
-
 {{< gmaps 1ZGgu_O8lN93zdmpBSk3kLkzTyu0 >}}
+
+### Hong Kong's Geography Overview
  																				
 Hong Kong consists of 2 main land masses, which are divided into 3 areas: 					
 * Hong Kong Island 												
 * Kowloon (peninsula off the southern part of New Territory)
-* New Territory (rest of Hong Kong)																									
+* New Territory (rest of Hong Kong)
 
 There are also 100s of outlying island，of which the airport is located on one of the largest. 																									
 The north side of New Territory connects to mainland China, separated by a river 				
