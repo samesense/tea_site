@@ -20,7 +20,7 @@ Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approxim
 A | [Macau 1 or 2 days](https://samesense.github.io/tea_site/info/06_tour/#macau-1-or-2-day-tour) | Macau | No | Nov 23 | $35 min | ? | 
 B| [Hong Kong Geological park boat tour](https://samesense.github.io/tea_site/info/06_tour/#hong-kong-geological-park-boat-tour) | at sea | Yes | Nov 24 | $75 min | N/A| 
 C| [Ngong Ping 360 Cable Car and Big Buddha or Tai O](https://samesense.github.io/tea_site/info/06_tour/#ngong-ping-360-cable-car-and-big-buddha-or-tai-o) | Lantau Island | No | Nov 20 | $20 min one way, $25 min round trip | $13 max |
-D| [Hong Kong Wetland Park and seafood]（https://samesense.github.io/tea_site/info/06_tour/#hong-kong-wetland-park-and-seafood） | Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
+D| [Hong Kong Wetland Park and seafood](https://samesense.github.io/tea_site/info/06_tour/#hong-kong-wetland-park-and-seafood)| Tin Shui Wai, Lau Fau Shan | Yes | Nov 19 or Nov 25| ? | ? | 
  
 ### Shorter Tours 
 
@@ -28,19 +28,19 @@ The following paid shorter tours are available.  Prices listed are pre-group dis
 
 Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-E | Tolo Harbor biking tour and group grilling | Shatin, Taipo, Tai Mei Duk| No | Nov 22 | $8 min | $13 min|
-F | Night Cruise on Victoria Harbor | Tsim Sha Tsui, at sea| Yes | Nov 21 | ? | ? 
+E | [Tolo Harbor biking tour and group grilling](https://samesense.github.io/tea_site/info/06_tour/#tolo-harbor-biking-tour-and-group-grilling) | Shatin, Taipo, Tai Mei Duk| No | Nov 22 | $8 min | $13 min|
+F | [Night Cruise on Victoria Harbor](https://samesense.github.io/tea_site/info/06_tour/#night-cruise-on-victoria-harbor)| Tsim Sha Tsui, at sea| Yes | Nov 21 | ? | ? 
 
 The following free, short tours are available: 
 
 Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)|
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-K | Ten Thousand Buddha Monastery  | Shatin  | No | N/A |  Free | ? |
-L | Jao Tsung-I Academy | Lai Chi Kok | No | N/A | Free | ? |
-M | Sam Tun UK Museum | Tsuen Wang| No | N/A| Free | ? |
-N | Tai Fu Tai Mansion | Yuen Long | No | N/A | Free | ? | 
-O | Wong Tai Sin Temple | Wong Tai Sin | No | N/A | Free | ? | 
-P | Kowloon Walled City Park | Kowloon City | No | N/A | Free | ? |
+K | [Ten Thousand Buddha Monastery](https://samesense.github.io/tea_site/info/06_tour/#ten-thousand-buddha-monastary) | Shatin  | No | N/A |  Free | ? |
+L | [Jao Tsung-I Academy](https://samesense.github.io/tea_site/info/06_tour/#jao-tsung-i-academy) | Lai Chi Kok | No | N/A | Free | ? |
+M | [Sam Tun UK Museum](https://samesense.github.io/tea_site/info/06_tour/#sam-tun-uk-museum)| Tsuen Wang| No | N/A| Free | ? |
+N | [Tai Fu Tai Mansion](https://samesense.github.io/tea_site/info/06_tour/#tai-fu-tai-mansion) | Yuen Long | No | N/A | Free | ? | 
+O | [Wong Tai Sin Temple](https://samesense.github.io/tea_site/info/06_tour/#wong-tai-sin-temple) | Wong Tai Sin | No | N/A | Free | ? | 
+P | [Kowloon Walled City Park](https://samesense.github.io/tea_site/info/06_tour/#kowloon-walled-city-park) | Kowloon City | No | N/A | Free | ? |
 
 ### Group Ticket Purchase 
 
@@ -48,10 +48,10 @@ The following group ticket deals are potentially available.  Prices listed are p
 
 Tour | Tour Name | Location | Price include meal? | Most likely date\*| Approximate Price \(USD/person\) | Meal Price (if not included)}
 ----| ----------| ------ |----------------| ------- | ----------| ---------- |
-G | Ocean Park | Ocean Park | No | N/A | $57 | ? |
-H | Disneyland Hong Kong | Sunny Bay, Lantau Island| No | N/A | $77 | ? | 
-I | Peak Tram | Central, at Peak| No | N/A |$8 min | ? 
-J | Hong Kong Observation Wheel | Central | No | N/A | $13 | ? | 
+G | [Ocean Park](https://samesense.github.io/tea_site/info/06_tour/#ocean-park) | Ocean Park | No | N/A | $57 | ? |
+H | [Disneyland Hong Kong](https://samesense.github.io/tea_site/info/06_tour/#disneyland-hong-kong) | Sunny Bay, Lantau Island| No | N/A | $77 | ? | 
+I | [Peak Tram](https://samesense.github.io/tea_site/info/06_tour/#peak-tram) | Central, at Peak| No | N/A |$8 min | ? 
+J | [Hong Kong Observation Wheel](https://samesense.github.io/tea_site/info/06_tour/#hong-kong-observation-wheel) | Central | No | N/A | $13 | ? | 
 
 ### Tour Description 
 #### Macau 1 or 2 Day Tour 
