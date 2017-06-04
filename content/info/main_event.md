@@ -5,7 +5,7 @@ weight = 1
 featured_image = "waterColorHkg.jpg"
 +++
 
-![main](static/waterColorHkg.jpg)
+![main](img/waterColorHkg.jpg)
 
 * [Comprehensive Guide](https://www.teasenz.com/chinese-tea/chinese-wedding-tea-ceremony.html)
 * Tuesday, Nov 21, 2017 noon - 3pm
