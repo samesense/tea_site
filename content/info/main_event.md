@@ -5,7 +5,6 @@ weight = 1
 featured_image = "waterColorHkg.jpg"
 +++
 
-[//]: <> {{< figure src="/media/waterColorHkg.jpg" title="Main hkg image" >}}
 ![main](img/waterColorHkg.jpg)
 
 * [Comprehensive Guide](https://www.teasenz.com/chinese-tea/chinese-wedding-tea-ceremony.html)
