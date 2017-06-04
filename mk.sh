@@ -21,7 +21,8 @@ rm -rf public/*
 echo "Generating site"
 hugo --theme hyde
 
-cp public/img/waterColorHkg.jpg public/info/main_event/
+mkdir public/info/main_event/img/
+cp public/img/waterColorHkg.jpg public/info/main_event/img/
 
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (mk.sh)" && git push origin gh-pages
