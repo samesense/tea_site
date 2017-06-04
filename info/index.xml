@@ -81,5 +81,14 @@ Full Day Tours The following paid full day tours are available. Prices listed ar
    Tour Tour Name Location Price include meal?</description>
     </item>
     
+    <item>
+      <title>Pictures</title>
+      <link>https://samesense.github.io/tea_site/info/07_pics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://samesense.github.io/tea_site/info/07_pics/</guid>
+      <description> Croatia, May 2017 Sintra, Portugal, May 2017  </description>
+    </item>
+    
   </channel>
 </rss>
